@@ -1,0 +1,6 @@
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\bin\MyJourney.Web.dll.config
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\bin\MyJourney.Web.dll
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\bin\MyJourney.Web.pdb
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\obj\Debug\MyJourney.Web.csprojResolveAssemblyReference.cache
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\obj\Debug\MyJourney.Web.dll
+c:\users\nate\Documents\dev\Capstone_Source\MyJourney.Web\obj\Debug\MyJourney.Web.pdb
